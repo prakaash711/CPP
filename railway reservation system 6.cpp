@@ -30,6 +30,7 @@ public:
     }
     void displayid()
     {
+	cout<<"user details now:";
         cout<<endl<<"User-Id : ";
         cout<<(id);
         cout<<endl<<"Password : ";

@@ -29,7 +29,7 @@ public:
     }
     void displayid()
     {
-        cout<<"User credentials:";
+        cout<<"User credential details :";
         cout<<endl<<"User-Id : ";
         cout<<(id);
         cout<<endl<<"Password : ";

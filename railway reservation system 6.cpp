@@ -1,3 +1,4 @@
+// This is the railway reservation program for the studies.
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
